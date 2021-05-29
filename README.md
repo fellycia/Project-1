@@ -13,7 +13,7 @@ Recommendations discussed include:
 
 Several data visualisation like histograms, scatter plot, box plot and heatmaps were used to understand the data better, show trends and outliers.
 
-Some trends observed are that most of the scores have an inverse relationship with participation rate. In addition, an increase in participation rate for SAT led to the decrease in participation rate for ACT and SAT participation rate has increased.
+Some trends observed are that most of the scores have an inverse relationship with participation rate. In addition, an increase in participation rate for SAT led to the decrease in participation rate for ACT.
 
 ### Data Dictionary
 |Feature|Type|Dataset|Description|
