@@ -1,7 +1,7 @@
 # Project-1 ACT and SAT 2017/2018 Analysis
 
 ### Problem Statement
-With a change in the format of SAT in March 2016. This report aims to analyse SAT and ACT participation rate for 2017 and 2018 and how to improve the SAT participation rate.
+With a change in the format of SAT in March 2016, this report aims to analyse SAT and ACT participation rate for 2017 and 2018 and how to improve the SAT participation rate.
 
 ### Executive Summary
 This report provides an analysis and evaluation of the American College Testing (ACT) and Scholastic Aptitude Test (SAT) dataset, consisting of the participation rates and aggregate scores for each state in the United States.
